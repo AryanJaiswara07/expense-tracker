@@ -12,7 +12,7 @@
 
 A sleek, modern expense tracker that helps you visualize your spending habits. Built with vanilla JavaScript and Chart.js for real-time data visualization. Features dark mode, search & filter, monthly trends, and CSV export!
 
-[🚀 Live Demo](#) • [📦 Source Code](https://github.com/AryanJaiswara07/expense-tracker)
+[🚀 Live Demo](https://expense-tracker-tau-rouge-97.vercel.app) • [📦 Source Code](https://github.com/AryanJaiswara07/expense-tracker)
 
 </div>
 
